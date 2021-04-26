@@ -1,6 +1,6 @@
 ## Instructions
 
-1.  Start Visual Studio Code (the program icon is pinned to the bottom taskbar).
+1.  Start Visual Studio Code.
 
 2.  You will notice mslearn -> ai900 folder open in the visual studio code, Please **ignore** it.
 
