@@ -4,7 +4,7 @@
 
 2.  You will notice mslearn -> ai900 folder open in the visual studio code, Please **ignore** it.
 
-![Visual Studio Code Icon](./images/vscode.jpg)
+    ![Visual Studio Code Icon](./images/vscode.jpg)
 
 3.  Open a file, From the top-left options, Click on **file->Open File** and navigate to **C:\Allfiles\mslearn-ai900**.
  
