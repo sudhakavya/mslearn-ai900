@@ -10,7 +10,7 @@
  
 4.  Open the file **05 - Optical Character Recognition.ipynb** notebook in Visual Studio Code.
 
-5.  In this lab we will be using the Face service in Azure to identify real-world items based on images.
+5.  In this lab we will be using the Optical Character Recognition service in Azure to identify text in any image.
 
     **Note:** You may be prompted to complete a 2-minute survey. Go ahead and select **No, thanks**. You may need to do this more than once.
 
