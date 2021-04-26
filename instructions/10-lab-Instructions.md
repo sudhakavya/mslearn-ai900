@@ -8,7 +8,7 @@
 
 3.  Open a file, From the top-left options, Click on **file->Open File** and navigate to **C:\Allfiles\mslearn-ai900**.
  
-4.  Open the file **09 - Translation.ipynb** notebook in Visual Studio Code.
+4.  Open the file **10 - Language Understanding.ipynb** notebook in Visual Studio Code.
 
 5.  In this lab we will be using the Face service in Azure to identify real-world items based on images.
 
