@@ -1,22 +1,17 @@
----
-lab:
-    title: 'Translation'
----
+## Instructions
 
-# AI-900 Labs
-## Get latest files
+1.  Start Visual Studio Code (the program icon is pinned to the bottom taskbar).
 
-1.  Start Visual Studio Code (the program icon is pinned to the bottom taskbar). When it opens, you should see the MSLEARN-AI900 project on the left-hand panel.
+2.  You will notice mslearn -> ai900 folder open in the visual studio code, Please **ignore** it.
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
-2.  We will pull the latest version of the project. In the open terminal type +++getfiles.cmd+++ and press **enter**. This command pulls the latest version of the project to your folder. 
-3.  Once the command runs, you can close the terminal panel. Now you can begin the lab. 
+3.  Open a file, From the top-left options, Click on **file->Open File** and navigate to **C:\Allfiles\mslearn-ai900**.
+ 
+4.  Open the file **09 - Translation.ipynb** notebook in Visual Studio Code.
 
-![Support image for using terminal in Visual Studio Code.](./images/terminal_support1.jpg)
+5.  In this lab we will be using the Face service in Azure to identify real-world items based on images.
 
-In this lab we will create an application that can understand language. 
-
--  Open the **09 - Translation.ipynb** notebook in Visual Studio Code. 
     **Note:** You may be prompted to complete a 2-minute survey. Go ahead and select **No, thanks**. You may need to do this more than once.
--  Follow the instructions in the notebook to complete the lab.
+
+6.  Follow the instructions in the notebook to complete the lab.
