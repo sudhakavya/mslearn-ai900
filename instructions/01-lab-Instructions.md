@@ -4,7 +4,7 @@
 
      ![Visual Studio Code Icon](./images/vscode.jpg)
 
-2.  Open a file, From the top-left options, Click on **file->Open File** and navigate to **C:\Allfiles\mslearn-ai900**.
+2.  Open a file, From the top-left options, Click on **file->Open File** and navigate to **C:\AllFiles\mslearn-ai900-main**.
  
 3.  Open the file **01 - Image Analysis with Computer Vision.ipynb** notebook in Visual Studio Code.
 
