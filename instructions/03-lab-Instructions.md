@@ -1,6 +1,6 @@
 ## Instructions
 
-1.  Start Visual Studio Code.
+1.  Start Visual Studio Code (the program icon is pinned to the bottom taskbar).
 
      ![Visual Studio Code Icon](./images/vscode.jpg)
 
