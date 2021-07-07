@@ -7,7 +7,7 @@
 
 1. Refer the **Environment Details** tab for any other lab credentials/details.
  
-![](Images/image.png)
+![](images/image.png)
 
 
 
