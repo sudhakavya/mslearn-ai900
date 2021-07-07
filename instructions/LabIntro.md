@@ -5,11 +5,9 @@
 
 1. Use the azure credentials provided in the **Environment Details** tab to log in to the portal.
 
-1. Refer the **Environment Details** tab for any other lab credentials/details.
- 
 ![](images/image.png)
 
-
+1. Refer the **Environment Details** tab for any other lab credentials/details.
 
 
 1. If lab validation are not being shown click on ... dot which are given in right side and click on **Lab Validations**
