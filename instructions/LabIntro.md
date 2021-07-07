@@ -13,9 +13,8 @@ If you are working on your local computer, you can follow these steps to configu
 
 ### C++ Redistributable 
 1. Download and install the [Visual C++ Redistributable (x64)](https://aka.ms/vs/16/release/vc_redist.x64.exe) 
-  >**Note**: If Already downloaded, Open an existing Visual studio code Application.
+  >**Note**: If Already downloaded, Open an existing one.
   
-   ![Visual Studio Code Icon](./images/vscode.jpg)
 
 ### Python and required packages 
 1. Install [Python 3.6.1](https://www.python.org/downloads/release/python-361/) 
