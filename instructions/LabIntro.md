@@ -18,7 +18,7 @@ If you are working on your local computer, you can follow these steps to configu
 
 ### Python and required packages 
 1. Install [Python 3.6.1](https://www.python.org/downloads/release/python-361/) 
-1. Once it get Installed, Add Python to your Windows PATH, To do that, you need to get its installation path. To do that, open up the Windows search bar and type python.exe (don't hit the Enter key). Then right-click on Python.exe that pops up in the resulting menu and select the Open file location option.
+1. Once it get Installed, Add Python to your Windows PATH, To do that, open up the Windows search bar and type python.exe (don't hit the Enter key). Then right-click on Python.exe that pops up in the resulting menu and select the Open file location option.
 
 ![](images/python.png)
 
